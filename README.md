@@ -25,8 +25,3 @@ git clone https://github.com/yourusername/sales-dashboard.git
 cd sales-dashboard
 npm install
 npm run dev
-
-## Author
-
-Sham K – Front-End Software Engineer, Final Assessment  
-[GitHub Profile](https://github.com/ShamKottish)
